@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date:  2022-04-06 15:30:17ss
  * @Description: epoller类的头文件
  * @LastEditTime: 2022-04-06 15:37:50
  * @FilePath:  /WebServer/server/epoller.h
  */
-#ifndef MRL_EPOLLER_H
-#define MRL_EPOLLER_H
+#ifndef WJ_EPOLLER_H
+#define WJ_EPOLLER_H
 
 #include <sys/epoll.h> //epoll_ctl()
 #include <fcntl.h>  // fcntl()

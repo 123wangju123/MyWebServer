@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date: 2022-04-07 23:32:44
  * @Description: socket类的头文件
  * @LastEditTime: 2022-04-08 14:47:16
  * @FilePath: \C++\NetCode\socket_epoll.cpp
  */
-#ifndef MRL_SOCKET_H_
-#define MRL_SOCKET_H_
+#ifndef WJ_SOCKET_H_
+#define WJ_SOCKET_H_
 #include<sys/socket.h>
 #include<netinet/in.h>
 #include<netdb.h>

@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date:  2022-03-28 15:34:03
  * @Description: log类的头文件
  * @LastEditTime: 2022-04-06 15:30:17
  * @FilePath:  /WebServer/log/log.h
  */
-#ifndef MRL_LOG_H_
-#define MRL_LOG_H_
+#ifndef WJ_LOG_H_
+#define WJ_LOG_H_
 
 #include <mutex>//互斥锁
 #include <string>

@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date:  2022-03-28 15:39:15
  * @Description: blockqueue类的头文件
  * @LastEditTime: 2022-03-28 23:23:13
  * @FilePath:  /WebServer/log/blockqueue.h
  */
-#ifndef MRL_LBLOCKQUEUE_H_
-#define MRL_LBLOCKQUEUE_H_
+#ifndef WJ_LBLOCKQUEUE_H_
+#define WJ_LBLOCKQUEUE_H_
 #include <mutex>//互斥锁
 #include <deque>//双端队列
 #include <condition_variable>//条件变量

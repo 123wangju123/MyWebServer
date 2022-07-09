@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date: 2022-03-21 22:46:06
  * @Description: SqlConnPool的头文件
  * @LastEditTime: 2022-03-23 17:41:33
  * @FilePath: \WebServer\pool\sqlconnpool.h
  */
-#ifndef MRL_SQL_CONN_POOL_H_
-#define MRL_SQL_CONN_POOL_H_
+#ifndef WJ_SQL_CONN_POOL_H_
+#define WJ_SQL_CONN_POOL_H_
 
 #include <mysql/mysql.h>//MSQL数据库
 #include <queue>//队列容器

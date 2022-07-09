@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date: 2022-03-29 14:36:42
  * @Description: Linux下的log日志工具
  * @LastEditTime: 2022-04-17 22:51:41
  * @FilePath: \C++\NetCode\linux_socket.cpp
  */
-# ifndef _LOGGER_H_
-# define _LOGGER_H_
+# ifndef WJ_LOGGER_H_
+# define WJ_LOGGER_H_
 
 # include <iostream>
 # include <fstream>

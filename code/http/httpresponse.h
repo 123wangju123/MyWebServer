@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date: 2022-04-06 21:21:58
  * @Description: httpresponse类的头文件
  * @LastEditTime: 2022-04-06 22:28:50
  * @FilePath: \WebServer\http\httpresponse.h
  */
-#ifndef MRL_HTTP_RESPONSE_H
-#define MRL_HTTP_RESPONSE_H
+#ifndef WJ_HTTP_RESPONSE_H
+#define WJ_HTTP_RESPONSE_H
 
 #include <unordered_map>
 #include <fcntl.h>       // open

@@ -1,13 +1,13 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date: 2022-04-06 21:21:58
  * @Description: httprequest类的头文件
  * @LastEditTime: 2022-04-06 22:38:00
  * @FilePath: \WebServer\http\httprequest.h
  */
 
- #ifndef MRL_HTTP_REQUEST_H
-#define MRL_HTTP_REQUEST_H
+ #ifndef WJ_HTTP_REQUEST_H
+#define WJ_HTTP_REQUEST_H
 #include <unordered_map>
 #include <unordered_set>
 #include <string>

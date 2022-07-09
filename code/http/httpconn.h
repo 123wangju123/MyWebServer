@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date: 2022-03-21 22:36:08
  * @Description: HttpConn类的头文件
  * @LastEditTime: 2022-04-06 22:35:31
  * @FilePath: \WebServer\http\httpconn.h
  */
-#ifndef MRL_HTTP_CONN_H_
-#define MRL_HTTP_CONN_H_
+#ifndef WJ_HTTP_CONN_H_
+#define WJ_HTTP_CONN_H_
 using namespace std;
 
 

@@ -1,12 +1,12 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date: 2022-03-21 20:44:42
  * @Description: WebServer类的头文件
  * @LastEditTime: 2022-04-08 15:38:02
  * @FilePath: \WebServer\server\webserver.h
  */
-#ifndef MRL_WEB_SERVER_H_
-#define MRL_WEB_SERVER_H_
+#ifndef WJ_WEB_SERVER_H_
+#define WJ_WEB_SERVER_H_
 
 
 #include <unistd.h>     

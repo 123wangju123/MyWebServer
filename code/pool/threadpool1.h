@@ -1,13 +1,13 @@
 /*
- * @Author: MRL Liu
+ * @Author: WJ
  * @Date: 2022-04-07 23:32:44
  * @Description: threadpool类的实现
  * @LastEditTime: 2022-05-19 16:22:51
  * @FilePath: \C++\pool\threadpool.cpp
  */
 
-#ifndef MRL_THREADPOOL_H
-#define  MRL_THREADPOOL_H
+#ifndef WJ_THREADPOOL_H
+#define  WJ_THREADPOOL_H
 
 #include <mutex>// 互斥锁
 #include <condition_variable>// 条件变量
